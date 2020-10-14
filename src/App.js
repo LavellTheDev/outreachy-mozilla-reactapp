@@ -10,7 +10,7 @@ function App() {
 
         <img src="/Pocket_Logo_Small.png" className="pocket-logo" alt=""/>
 
-        <img src="/Pocket_Logo_Small.png" className="pocket-logo" alt=""/>
+        <img src="/lavell.jpg" className="lavell-profile" alt=""/>
 
         <Button className="button-name" href="https://www.linkedin.com/in/lavell-wesley/" variant="contained" color="secondary"> Lavell Wesley </Button>
       </header>
