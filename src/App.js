@@ -7,9 +7,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <Button> </Button>
-        <img src={logo} className="App-logo" alt="logo" />
 
+        <img src="/Pocket_Logo_Small.png" className="pocket-logo" alt=""/>
+
+        <img src="/Pocket_Logo_Small.png" className="pocket-logo" alt=""/>
+
+        <Button className="button-name" href="https://www.linkedin.com/in/lavell-wesley/" variant="contained" color="secondary"> Lavell Wesley </Button>
       </header>
     </div>
   );
